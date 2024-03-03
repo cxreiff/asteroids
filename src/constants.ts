@@ -1,5 +1,4 @@
-export const OBJECT_STORE_ASSETS_URL =
-  "https://cxreiff.sfo3.cdn.digitaloceanspaces.com/";
+export const OBJECT_STORE_ASSETS_URL = "https://assets.cxreiff.com/";
 
 export const SPRITESHEET_URLS = {
   SHARED: `${OBJECT_STORE_ASSETS_URL}spritesheets/shared.json`,
